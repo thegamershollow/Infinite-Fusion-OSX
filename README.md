@@ -11,3 +11,7 @@ A way to play pokemon infinite fusion on older macs
 - Download the app from the release page [DOWNLOAD](https://github.com/thegamershollow/Infinite-Fusion-OSX/releases/latest)
 
 - Then copy the app to the applications folder
+
+## Other Stuff
+
+I am also in progress of working on a guide on how to do thin yourself in case you want to.
